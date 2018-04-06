@@ -9,7 +9,11 @@ I included some of my favorite Youtube videos of all time because I hope whoever
 ## This project was made to practice the following:
 
 -Structuring an HTML document (obviously)
+
 -Stylizing navigation bars and sidebars using CSS
+
 -Embedding videos and pictures into an HTML document
+
 -Imitate Youtube's style using basic CSS
+
 -Understand the black magic behind manipulating HTML divs to actually place content in the correct spot
